@@ -1,3 +1,6 @@
+#Author: H. Hovhannisyan
+#Script version: v1.0
+
 import sys
 import os
 
